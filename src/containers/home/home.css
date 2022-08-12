@@ -1,0 +1,18 @@
+.home, .game{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.homeTop , .candy{
+    border: 1px solid lightgrey;
+    padding: 2%;
+    margin: 2%;
+}
+
+.homeMiddle {
+    background-color: lightgrey;
+    padding:2%;
+    margin: 2%;
+}
