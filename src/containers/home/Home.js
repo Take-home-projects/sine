@@ -8,10 +8,8 @@ function Home() {
     return (
         <div className='home'>
             <div className='homeTop'>
-                <h3>Home of Katrina Dierking!</h3>
-                <h3>Gaze into my beautiful sine.</h3>
+                <h5> Katrina Dierking | Frontend Developer | 2022</h5>
                 <Sine />
-                <h5>(10 points if you can correctly identify the reference.)</h5>
             </div>
         
             <div className='candy'>
