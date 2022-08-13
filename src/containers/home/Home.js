@@ -14,7 +14,7 @@ function Home() {
         
             <div className='candy'>
                 <div className='homeMiddle'>
-                        <h4> Enjoy a game of Candy Crush ... but don't get addicted. There's no 12-step program for that ...yet</h4>
+                        <h4> Enjoy a game of Candy Crush ... but don't get addicted. <br />There's no 12-step program for that ...yet</h4>
                         <h5> Drag the candies to rows of 3 and 4 to eliminate them.</h5>
                 </div>
                 <CandyCrush />

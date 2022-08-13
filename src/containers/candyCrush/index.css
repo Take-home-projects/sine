@@ -19,11 +19,17 @@
 }
 
 .score-board {
-    border: 5px solid grey;
-    padding: 1%;
-    border-radius: 40%;
+    /* border: 2px solid grey; */
+    padding: .5%;
+    border-radius: 20%;
     min-height: 5vh;
-    min-width: 15vw;
+    width: 20vw;
+    font-size: 14px;
+}
+.score {
+    color: green;
+    border: 2px solid green;
+    padding: 1%;
 }
 
 .home {
